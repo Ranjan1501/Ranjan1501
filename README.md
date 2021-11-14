@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning ...Full Stack Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+- Email-  ranjankumar1757@gmail.com
 
 <!---
 Ranjan1501/Ranjan1501 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
