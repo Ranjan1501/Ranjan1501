@@ -47,8 +47,9 @@ Here are some ideas to get you started:
 <br />
 
 ### About Me 🚀
-🌱 I’m a Full stack developer with  specilization in MERN Stack. </br>
-👨‍💻  I am passionate, persistant about Web Dev & I enjoy learning new things. </br>
+🌱 I’m a Full stack developer with specilization in MERN Stack. </br>
+👨‍💻  I am dedicated, committed and persistant about Web Develpemnt & I enjoy learning new things. </br>
+
 
 
 
