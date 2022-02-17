@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 
 ### 📕 Blog Posts
 - [Zoom Car — Clone (Full Stack with Mongo and Ejs](https://medium.com/geekculture/zoom-car-clone-full-stack-with-mongo-and-ejs-ceb717d4417e)
-- [Add a README for your profile : GitHub feature](https://medium.com/@ranjankumar1757/add-a-readme-for-your-profile-github-feature-8f1ac11cb112)
+<!-- - [Add a README for your profile : GitHub feature](https://medium.com/@ranjankumar1757/add-a-readme-for-your-profile-github-feature-8f1ac11cb112) -->
 <br/>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Ranjan1501.Ranjan1501)
