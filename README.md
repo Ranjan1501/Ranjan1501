@@ -29,28 +29,16 @@ Here are some ideas to get you started:
 -->
 
 
-<a href="https://www.linkedin.com/in/ranjan-kumar-thakur-47a65662/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
-</a>
-<a href="https://twitter.com/Ranjank87465651">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="mailto:ranjankumar1757@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
 
-<a href="https://medium.com/@ranjankumar1757">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
 
 
 <br />
 
 ### About Me 🚀
 🌱 I’m a Full stack developer with specilization in MERN Stack. </br>
-👨‍💻  I am dedicated, committed and persistant about Web Develpemnt & I enjoy learning new things. </br>
+👨‍💻  I am dedicated, committed and persistant about Web Develpemnt & I enjoy learning new things. I am looking for career in full Stack Developer for grow more </br>
 
-
+ 
 
 
 ![Ranjan's github stats](https://github-readme-stats.vercel.app/api?username=Ranjan1501&show_icons=true&hide_border=true)&nbsp;&nbsp;
@@ -64,3 +52,19 @@ Here are some ideas to get you started:
 <br/>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Ranjan1501.Ranjan1501)
+
+### 📕 Contact Me
+
+<a href="https://www.linkedin.com/in/ranjan-kumar-thakur-47a65662/">
+  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+</a>
+<a href="https://twitter.com/Ranjank87465651">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="mailto:ranjankumar1757@gmail.com">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+
+<a href="https://medium.com/@ranjankumar1757">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+</a>
