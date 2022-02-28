@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Web Develpoment
 - 🌱 I’m currently learning ...Full Stack Development
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ..., 
 - Email-  ranjankumar1757@gmail.com
 - 
 
@@ -11,8 +11,8 @@ Ranjan1501/Ranjan1501 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 ---> 
 
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Ranjan Kumar Thakur!]
-(https://www.linkedin.com/in/ranjan-kumar-thakur-47a65662/) 
+## Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Greetings of the Day, I'm [Ranjan Kumar Thakur!]
+
 <!--
 **Ranjan/Ranjan1501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -36,9 +36,16 @@ Here are some ideas to get you started:
 
 ### About Me 🚀
 🌱 I’m a Full stack developer with specilization in MERN Stack. </br>
-👨‍💻  I am dedicated, committed and persistant about Web Develpemnt & I enjoy learning new things. I am looking for career in full Stack Developer for grow more </br>
+👨‍💻  I am dedicated, committed and persistant about Web Develpemnt, I enjoy learning new things. I am looking for career in full Stack Developer to grow more </br>
 
  
+### Tech-Skills 👨‍💻
+
+<img width="600" alt="skill-1" src="https://user-images.githubusercontent.com/91541289/156036899-88604c08-a0c1-4460-a73e-d2ac4c21dd2f.png">
+
+<br>
+
+<img width="600" alt="skill-2 " src="https://user-images.githubusercontent.com/91541289/156036907-f841ea2d-7140-47cc-93cc-d1b4ff733e6c.png">
 
 
 ![Ranjan's github stats](https://github-readme-stats.vercel.app/api?username=Ranjan1501&show_icons=true&hide_border=true)&nbsp;&nbsp;
