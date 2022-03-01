@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 ### About Me 🚀
 🌱 I’m a Full stack developer with specilization in MERN Stack. </br>
-👨‍💻  I am dedicated, committed and persistant about Web Develpemnt, I enjoy learning new things. I am looking for career in full Stack Developer to grow more </br>
+👨‍💻  I am dedicated, committed and persistant about Web Develpemnt, I enjoy learning new things. I am currenlty looking for an opportunity to learn and grow more as full Stack Web Developer </br>
 
  
 ### Tech-Skills 👨‍💻
@@ -66,15 +66,15 @@ Here are some ideas to get you started:
 ### 📕 Contact Me
 
 <a href="https://www.linkedin.com/in/ranjan-kumar-thakur-47a65662/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+  <img align="left" width="30px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
 <a href="https://twitter.com/Ranjank87465651">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="mailto:ranjankumar1757@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
 <a href="https://medium.com/@ranjankumar1757">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+  <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
