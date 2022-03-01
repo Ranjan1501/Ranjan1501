@@ -11,7 +11,7 @@ Ranjan1501/Ranjan1501 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 ---> 
 
-## Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Greetings of the Day, I'm [Ranjan Kumar Thakur!]
+## Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Greetings of the Day, I'm Ranjan Kumar Thakur!
 
 <!--
 **Ranjan/Ranjan1501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -48,9 +48,12 @@ Here are some ideas to get you started:
 <img width="600" alt="skill-2 " src="https://user-images.githubusercontent.com/91541289/156036907-f841ea2d-7140-47cc-93cc-d1b4ff733e6c.png">
 
 
-![Ranjan's github stats](https://github-readme-stats.vercel.app/api?username=Ranjan1501&show_icons=true&hide_border=true)&nbsp;&nbsp;
+![Ranjan's github stats](https://github-readme-stats.vercel.app/api?username=Ranjan1501&show_icons=true&hide_border=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)&nbsp;&nbsp;
+<br>
 ![Ranjan's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ranjan1501&layout=compact&langs_count=8&hide_border=true)
-<br />
+
+<br> 
+
 
 
 ### 📕 Blog Posts
