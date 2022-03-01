@@ -51,13 +51,11 @@ Here are some ideas to get you started:
 ![Ranjan's github stats](https://github-readme-stats.vercel.app/api?username=Ranjan1501&show_icons=true&hide_border=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)&nbsp;&nbsp;
 <br>
 ![Ranjan's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ranjan1501&layout=compact&langs_count=8&hide_border=true)
-
 <br> 
-
 <p align="center">
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=Ranjan1501&theme=radical&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=Ranjan1501&theme=onedark&margin-h=15&margin-w=5&no-bg=false" alt="TROPHY" />
     </a>
 </div>
 </p>
