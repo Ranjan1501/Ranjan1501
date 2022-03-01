@@ -11,7 +11,7 @@ Ranjan1501/Ranjan1501 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 ---> 
 
-## Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Greetings of the Day, I'm Ranjan Kumar Thakur!
+## Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Greetings of the Day!, I'm Ranjan Kumar Thakur
 
 <!--
 **Ranjan/Ranjan1501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
