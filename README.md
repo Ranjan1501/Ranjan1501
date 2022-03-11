@@ -62,6 +62,10 @@ Here are some ideas to get you started:
 
 <br>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ranjan1501&theme=highcontrast)](https://git.io/streak-stats)
+
+<br> 
+
 
 ### 📕 Blog Posts
 - [Zoom Car — Clone (Full Stack with Mongo and Ejs](https://medium.com/geekculture/zoom-car-clone-full-stack-with-mongo-and-ejs-ceb717d4417e)
