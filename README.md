@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 ![Ranjan's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ranjan1501&layout=compact&langs_count=8&hide_border=true)
 <br> 
 <p align="center">
-<div align=center>
+<div >
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
       <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=Ranjan1501&theme=onedark&margin-h=15&margin-w=5&no-bg=false" alt="TROPHY" />
     </a>
