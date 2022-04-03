@@ -36,12 +36,12 @@ Here are some ideas to get you started:
 
 ### About Me 🚀
 🌱 Full stack developer with specialization in MERN Stack. </br>
-👨‍💻 Dedicated, Committed and Persistent about Web Develpemnt, I enjoy learning new things. I am currently looking for an opportunity to learn and grow more as Full Stack Web Developer </br>
-💬 Ask me about Full Stack Development
-👯 I’m looking to collaborate on Some Cool Project. 
-🔭 I’m currently working on Geektrust Coding Challenge. 
-🌱 I’m currently learning New Features of React V 18.
-⚡ Fun fact: Satya Nadella:- He got a bachelor’s degree in "Electrical Engineering" from Manipal Institute of Technology. He said, "it was a great way for me to go discover what turned out to become a passion.”.
+👨‍💻 Dedicated, Committed and Persistent about Web Develpemnt, I enjoy learning new things. I am currently looking for an opportunity to learn and grow more as Full Stack Web Developer. </br>
+💬 Ask me about Full Stack Development. <br/> 
+👯 I’m looking to collaborate on Some Cool Project. <br/> 
+🔭 I’m currently working on Geektrust Coding Challenge. <br/> 
+🌱 I’m currently learning New Features of React V 18. <br/>
+⚡ Fun fact: Satya Nadella:- He got a bachelor’s degree in "Electrical Engineering" from Manipal Institute of Technology. He said, "it was a great way for me to go discover what turned out to become a passion.”. <br/> 
 
 
 
