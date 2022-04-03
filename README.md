@@ -1,38 +1,11 @@
-<!-- - 👋 Hi, I’m Ranjan Kumar Thakur 
-- 👀 I’m interested in ...Web Develpoment
-- 🌱 I’m currently learning ...Full Stack Development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ..., 
-- Email-  ranjankumar1757@gmail.com
-- 
 
-<!---
-Ranjan1501/Ranjan1501 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
----> 
-
-## Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Greetings of the Day!, I'm Ranjan Kumar Thakur
-
-<!--
-**Ranjan/Ranjan1501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
-
-
+## Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Greetings of the Day!
 <br />
+
+<img width="800" height="350" marginLeft="200" alt="Background Image" src="https://user-images.githubusercontent.com/91541289/161417609-605e925b-d44c-4a5e-be39-75b1207da60f.jpg" > 
+
+
+<br/> 
 
 ### About Me 🚀
 🌱 Full stack developer with specialization in MERN Stack. </br>
