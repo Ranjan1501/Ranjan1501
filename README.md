@@ -37,6 +37,14 @@ Here are some ideas to get you started:
 ### About Me 🚀
 🌱 Full stack developer with specialization in MERN Stack. </br>
 👨‍💻 Dedicated, Committed and Persistent about Web Develpemnt, I enjoy learning new things. I am currently looking for an opportunity to learn and grow more as Full Stack Web Developer </br>
+💬 Ask me about Full Stack Development
+👯 I’m looking to collaborate on Some Cool Project. 
+🔭 I’m currently working on Geektrust Coding Challenge. 
+🌱 I’m currently learning New Features of React V 18.
+⚡ Fun fact: Satya Nadella:- He got a bachelor’s degree in "Electrical Engineering" from Manipal Institute of Technology. He said, "it was a great way for me to go discover what turned out to become a passion.”.
+
+
+
 
  
 ### Tech-Skills 👨‍💻
@@ -69,6 +77,8 @@ Here are some ideas to get you started:
 
 ### 📕 Blog Posts
 - [Zoom Car — Clone (Full Stack with Mongo and Ejs](https://medium.com/geekculture/zoom-car-clone-full-stack-with-mongo-and-ejs-ceb717d4417e)
+- <br/>
+-   [BookMyShow- (MERN Stack)] (https://medium.com/@ranjankumar1757/bookmyshow-mern-stack-d41f308c81ea) 
 <!-- - [Add a README for your profile : GitHub feature](https://medium.com/@ranjankumar1757/add-a-readme-for-your-profile-github-feature-8f1ac11cb112) -->
 <br/>
 
