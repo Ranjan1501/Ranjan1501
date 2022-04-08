@@ -23,9 +23,7 @@
 ### Tech-Skills 👨‍💻
 
 <img width="600" alt="skill-1" src="https://user-images.githubusercontent.com/91541289/156036899-88604c08-a0c1-4460-a73e-d2ac4c21dd2f.png">
-
 <br>
-
 <img width="600" alt="skill-2 " src="https://user-images.githubusercontent.com/91541289/156036907-f841ea2d-7140-47cc-93cc-d1b4ff733e6c.png">
 
 
@@ -49,10 +47,10 @@
 
 
 ### 📕 Blog Posts
-- [Zoom Car — Clone (Full Stack with Mongo and Ejs](https://medium.com/geekculture/zoom-car-clone-full-stack-with-mongo-and-ejs-ceb717d4417e)
-- <br/>
--   [BookMyShow- (MERN Stack)] (https://medium.com/@ranjankumar1757/bookmyshow-mern-stack-d41f308c81ea) 
-<!-- - [Add a README for your profile : GitHub feature](https://medium.com/@ranjankumar1757/add-a-readme-for-your-profile-github-feature-8f1ac11cb112) -->
+ [Zoom Car — Clone (Full Stack with Mongo and Ejs](https://medium.com/geekculture/zoom-car-clone-full-stack-with-mongo-and-ejs-ceb717d4417e)
+ <br/>
+ [BookMyShow- (MERN Stack) ](https://medium.com/@ranjankumar1757/bookmyshow-mern-stack-d41f308c81ea) 
+   
 <br/>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Ranjan1501.Ranjan1501)
