@@ -15,6 +15,7 @@
 🔭 I’m currently working on Geektrust Coding Challenge. <br/> 
 🌱 I’m currently learning New Features of React V 18. <br/>
 ⚡ Fun fact: Satya Nadella:- He got a bachelor’s degree in "Electrical Engineering" from Manipal Institute of Technology. He said, "it was a great way for me to go discover what turned out to become a passion.”. <br/> 
+📞 Contact me at @ +91-8920279634
 
 
 
@@ -70,3 +71,4 @@
 <a href="https://medium.com/@ranjankumar1757">
   <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
+📞  Call Me for Coffee @ +91 8920279634
