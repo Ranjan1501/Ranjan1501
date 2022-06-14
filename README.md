@@ -5,7 +5,7 @@
 
 ### About Me 🚀
 🌱 Full stack developer with specialization in MERN Stack. </br>
-👨‍💻 Dedicated, Committed aeignd Persistent about Web Develpemnt, I enjoy learning new things. I am currently looking for an opportunity to learn and grow more as Full Stack Web Developer. </br>
+👨‍💻 Dedicated, Committed and Persistent about Web Develpemnt, I enjoy learning new things. I am currently looking for an opportunity to learn and grow more as Full Stack Web Developer. </br>
 💬 Ask me about Full Stack Development. <br/> 
 👯 I’m looking to collaborate on Some Cool Project. <br/> 
 🔭 I’m currently working on Geektrust Coding Challenge. <br/> 
