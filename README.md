@@ -1,6 +1,6 @@
 
 ## Hi <img width="25px" height="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" > Greetings of the Day!
-<img width="800" height="350" marginLeft="200" alt="Background Image" src="https://user-images.githubusercontent.com/91541289/161417609-605e925b-d44c-4a5e-be39-75b1207da60f.jpg" > 
+<img width="900" height="350" marginLeft="200" alt="Background Image" src="https://user-images.githubusercontent.com/91541289/161417609-605e925b-d44c-4a5e-be39-75b1207da60f.jpg" > 
 <br/> 
 
 ### About Me 🚀
@@ -17,7 +17,7 @@
  
 ### Tech-Skills 👨‍💻
 
-<img width="600" alt="skill-1" src="https://user-images.githubusercontent.com/91541289/156036899-88604c08-a0c1-4460-a73e-d2ac4c21dd2f.png">
+<img width="800" alt="Skills" src="https://user-images.githubusercontent.com/91541289/229344245-b7b41f53-85d4-45c8-831c-e72cf95c0a9e.png">
 <br>
 <img width="600" alt="skill-2 " src="https://user-images.githubusercontent.com/91541289/156036907-f841ea2d-7140-47cc-93cc-d1b4ff733e6c.png">
 
