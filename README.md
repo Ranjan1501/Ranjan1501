@@ -19,8 +19,6 @@
 
 <img width="800" alt="Skills" src="https://user-images.githubusercontent.com/91541289/229344245-b7b41f53-85d4-45c8-831c-e72cf95c0a9e.png">
 <br>
-<img width="600" alt="skill-2 " src="https://user-images.githubusercontent.com/91541289/156036907-f841ea2d-7140-47cc-93cc-d1b4ff733e6c.png">
-
 
 ![Ranjan's github stats](https://github-readme-stats.vercel.app/api?username=Ranjan1501&show_icons=true&hide_border=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)&nbsp;&nbsp;
 <br>
