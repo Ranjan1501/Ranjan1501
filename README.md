@@ -5,7 +5,7 @@
 
 ### About Me 🚀
 🌱 Backend developer with specialization in Node Js. </br>
-👨‍💻 Dedicated, Committed and Persistent about Web development, I enjoy learning new things. I am currently looking for an opportunity to learn and grow more as Full Stack Web Developer. </br>
+👨‍💻 Dedicated, Committed and Persistent about Web development, I enjoy learning new things. I am currently looking for an opportunity to learn and grow more as Backend Developer. </br>
 💬 Ask me about Node Js, Javascript PHP, and Typescript. <br/> 
 👯 I’m looking to collaborate on Some Cool Projects. <br/> 
 🔭 I’m currently working on Geektrust Coding Challenge. <br/> 
