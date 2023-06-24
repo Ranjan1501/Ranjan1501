@@ -4,14 +4,14 @@
 <br/> 
 
 ### About Me 🚀
-🌱 Full stack developer with specialization in MERN Stack. </br>
-👨‍💻 Dedicated, Committed and Persistent about Web Develpemnt, I enjoy learning new things. I am currently looking for an opportunity to learn and grow more as Full Stack Web Developer. </br>
-💬 Ask me about Full Stack Development. <br/> 
-👯 I’m looking to collaborate on Some Cool Project. <br/> 
+🌱 Backend developer with specialization in Node Js. </br>
+👨‍💻 Dedicated, Committed and Persistent about Web development, I enjoy learning new things. I am currently looking for an opportunity to learn and grow more as Full Stack Web Developer. </br>
+💬 Ask me about Node Js, Javascript PHP, and Typescript. <br/> 
+👯 I’m looking to collaborate on Some Cool Projects. <br/> 
 🔭 I’m currently working on Geektrust Coding Challenge. <br/> 
-🌱 I’m currently learning New Features of React V 18. <br/>
-⚡ Fun fact: Satya Nadella:- He got a bachelor’s degree in "Electrical Engineering" from Manipal Institute of Technology. He said, "it was a great way for me to go discover what turned out to become a passion.”. <br/> 
-📞 Contact me at @ +91-8920279634
+🌱 I’m currently learning Java Backend and Clojure. <br/>
+⚡ Fun fact: Satya Nadella:- He got a bachelor’s degree in "Electrical Engineering" from the Manipal Institute of Technology. He said, "It was a great way for me to go discover what turned out to become a passion.”. <br/> 
+📞 Contact me at +91-8920279634
 
 
  
