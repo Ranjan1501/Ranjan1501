@@ -5,10 +5,10 @@
 
 ### About Me 🚀
 🌱 Backend developer with specialization in Node Js. </br>
-👨‍💻 Dedicated, Committed and Persistent about Web development, I enjoy learning new things. I am currently looking for an opportunity to learn and grow more as Backend Developer. </br>
-💬 Ask me about Node Js, Javascript PHP, and Typescript. <br/> 
+👨‍💻 Dedicated, Committed and Persistent about Software development, I enjoy learning new things. I am currently looking for an opportunity to learn and grow more as a Backend Developer. </br>
+💬 Ask me about Node Js, Javascript, PHP, Core Java and Typescript. <br/> 
 👯 I’m looking to collaborate on Some Cool Projects. <br/> 
-🔭 I’m currently working on Geektrust Coding Challenge. <br/> 
+🔭 I’m currently working on the Geektrust Coding Challenge. <br/> 
 🌱 I’m currently learning Java Backend and Clojure. <br/>
 ⚡ Fun fact: Satya Nadella:- He got a bachelor’s degree in "Electrical Engineering" from the Manipal Institute of Technology. He said, "It was a great way for me to go discover what turned out to become a passion.”. <br/> 
 📞 Contact me at +91-8920279634
