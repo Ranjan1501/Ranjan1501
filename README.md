@@ -40,9 +40,7 @@
 
 
 ### 📕 Blog Posts
- [Zoom Car — Clone (Full Stack with Mongo and Ejs](https://medium.com/geekculture/zoom-car-clone-full-stack-with-mongo-and-ejs-ceb717d4417e)
- <br/>
- [BookMyShow- (MERN Stack) ](https://medium.com/@ranjankumar1757/bookmyshow-mern-stack-d41f308c81ea) 
+ [(Solid Principle)](https://medium.com/@ranjankumar1757/solid-principle-with-javascript-7deb197617a0)
    
 <br/>
 
