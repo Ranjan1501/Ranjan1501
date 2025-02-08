@@ -11,7 +11,7 @@
 🔭 I’m currently working on the Geektrust Coding Challenge. <br/> 
 🌱 I’m currently learning Java Backend and Clojure. <br/>
 ⚡ Fun fact: Satya Nadella:- He got a bachelor’s degree in "Electrical Engineering" from the Manipal Institute of Technology. He said, "It was a great way for me to go discover what turned out to become a passion.”. <br/> 
-📞 Contact me at +91-8920279634
+✉️ Contact me on ranjankumar1757@gmail.com
 
 
  
