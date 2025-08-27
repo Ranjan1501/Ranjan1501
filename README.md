@@ -41,8 +41,6 @@
 
 ### 📕 Blog Posts
  [(Solid Principle)](https://medium.com/@ranjankumar1757/solid-principle-with-javascript-7deb197617a0)
- <br/> 
- [(ZoomCar- Project)](https://medium.com/geekculture/zoom-car-clone-learning-purpose-65675e5c064f)
   
 <br/>
 
